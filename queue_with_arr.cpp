@@ -8,7 +8,7 @@ using namespace std;
 // }
 // int deletequeue(int queue[],int front,int rear){
 //     if(front==rear){
-//         cout<<"nderflow";
+//         cout<<"underflow";
 //     }
 //     cout<<"\n"<<queue[front]<<"\n";
 //     return ++front;
